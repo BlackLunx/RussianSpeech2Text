@@ -17,4 +17,4 @@ tensorboard>=2.0
 soundfile>=0.10.3.post1
 torch_optimizer>=0.1.0
 pillow
-git+https://github.com/NoVarlok/sova-tts-tps.git@master
+pyTelegramBotAPI
